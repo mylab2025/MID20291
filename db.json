@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "POWER MOSFET",
+        "PN": "C3M0120090",
+        "MF": "CREE"
+      },
+      "MID": "MID20291",
+      "MD": "C3M0120090 is C3M SiC MOSFET technology with VDS=900V, ID=23A, RDS=120mR || SMPS, Renewable energy, EV battery chargers, High voltage DC/DC converters, Lighting || Location: TBA",
+      "MT": "Electronic Material",
+      "MQNT": 26,
+      "MCost": 1323.85,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20291%2Fmain%2Fc3m0120090d-1795416.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20291/main/WhatsApp Image 2025-05-31 at 4.30.28 PM.jpeg",
+        "https://raw.githubusercontent.com/mylab2025/MID20291/main/WhatsApp Image 2025-05-31 at 4.30.28 PM (1).jpeg"
+      ]
+    }
+  ]
+}
